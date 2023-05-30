@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CS50 Web Programming Course**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Python, HTML, CSS**
 

@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="dev.png"/>
 
-- 🔭 I’m currently working on **CS50 Web Programming Course**
+- 🔭 I’m currently working on **Web Developer Course by Conestoga College**
 
 - 🌱 I’m currently learning **Javascript**
 

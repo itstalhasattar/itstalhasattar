@@ -2,11 +2,9 @@
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="dev.png"/>
 
-- 🔭 I’m currently working on **Web Developer Course by Conestoga College**
+- 🔭 I’m currently working on **NodeJS**
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **NodeJs amd Express**
 
 - 📫 How to reach me **talhasattar96@gmail.com**
 
